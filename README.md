@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a shopping cart app
 - 🌱 I’m currently learning full stack javascript (React, right now)
-- - 👯 I’m looking to collaborate on web apps
+- 👯 I’m looking to collaborate on web apps
 
 <!--
 **alienworld1/alienworld1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
