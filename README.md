@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a full fledged Messenger App.<br>🌱 I’m currently learning full stack development with TypeScript and JavaScript (Professional).<br>🌱 I’m also working on C++ and Rust (Passion).<br>👯 I’m looking to collaborate on web apps, or low-level system applications.
+🔭 I’m currently working on a full fledged Messenger App.<br>🌱 I’m currently learning full stack development with TypeScript and PostgreSQL.<br>🌱 I’m also working on C++, Powershell and Rust.<br>👯 I’m looking to collaborate on web apps, or low-level system applications.
 
 
 ## 🌐 Socials:
